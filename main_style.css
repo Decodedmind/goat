@@ -5,7 +5,8 @@ margin: 0}
 a{font-size: large;}
 img {
     border-radius: 400px;
-    margin-left: 560px;
+    display: block;
+    margin-left: auto;
     margin-right: auto;
     width: 50%;
       }
@@ -29,7 +30,7 @@ h2{
     }
 .background{
         width: 100%;
-        height: 395vh;
+        height: 400vh;
         background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(images/jcole\ sitting.webp);
         background-size:cover;
         background-position: center;
@@ -80,7 +81,7 @@ position:fixed;
         font-size: 14px;
         letter-spacing: 2px;
         text-transform: uppercase;
-    color: burlywood;
+    color: rgb(245, 162, 54);
 font-style:normal}
 
 .btn2:hover {
